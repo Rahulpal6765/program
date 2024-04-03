@@ -7,8 +7,9 @@ int main() {
         int table = n * i;
         printf("%d\n", table);
     }
+     // reverse table//
     printf("-------------\n");
-    // reverse table
+   
     for(int i = 10; i >= 1; i--){
         printf("%d\n", n*i);
     }
